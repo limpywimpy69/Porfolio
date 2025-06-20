@@ -1,1 +1,1 @@
-How to run -> Open the `profile.html` file in any web browser
+How to run -> Open the `main.html` file in any web browser
